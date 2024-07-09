@@ -53,6 +53,11 @@ Everything in this repository is free to use however you might see fit. If you w
 
 If you would like to send me a tip, you could do it [here](https://ko-fi.com/weteor) (Please don't feel like you have to).
 
+### special thanks
+The two bird species, Fitis and Zilpzalp, are very difficult to tell apart visually. As a rule, however, Fitis have light, orange-colored legs, while those of the Zilpzalp are dark
+
+So, yeah, thanks to Apfel for making me aware of Aptmak and for the zilpzalp keyboard, which (heavily?) inspired the Fitis. You can find more cool stuff [in his repo](https://github.com/kilipan)
+
 ### more pictures
 
 ![top](img/fitis_nah.jpg)
