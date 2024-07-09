@@ -4,14 +4,14 @@
 
 ![top](img/fitis_rose.jpg)
 
-## Features
+## features
 
 - Hotswap sockets (Choc V1)
 - CH552T Controller (w/ FAK firmware)
 - gerber and case files are supplied (kicad files, stl as well as cadquery files)
 - completely open source, permissive license ([CERN-OHL-P](https://cern-ohl.web.cern.ch/home))
 
-## Want one?
+## want one?
 
 All production files you need to build your own board can be found [here](./prod/).
 
