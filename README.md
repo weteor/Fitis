@@ -45,7 +45,7 @@ If you want to use the case, you might have to look for a fitting usb cable. The
 
 Config for FAK can be found [here](https://github.com/weteor/fak-config/tree/main/keyboards/fitis). Please also see [FAK-Firmware site](https://github.com/semickolon/fak) for more information
 
-Bootloader should be available on plugin until firmware is written. After that either use the firmware BOOT to go into bootloader, or hold the boot button on the pcb pressed while pluggin in the usb cable.
+Bootloader should be available on plugin until firmware is written. After that either use the firmware BOOT to go into bootloader, or hold the boot button (right one on the bottom) on the pcb pressed while pluggin in the usb cable.
 
 ### the rest
 
